@@ -1,0 +1,33 @@
+1713509475113	Delete element
+1713509605445	Delete element
+1713509718288	Delete element
+1713548258910	Delete element
+1713548265866	Delete element
+1713604615692	Delete element
+1713606591321	Encapsulate field 'location'
+1713606599746	Encapsulate field 'website'
+1713606608598	Encapsulate field 'birthDate'
+1713606720903	Encapsulate field 'password'
+1713606773410	Encapsulate field 'mobile'
+1713606785451	Encapsulate field 'image'
+1713606791680	Encapsulate field 'backgroundImage'
+1713606798367	Encapsulate field 'bio'
+1713606804291	Encapsulate field 'req_user'
+1713606810135	Encapsulate field 'login_with_google'
+1713606818894	Encapsulate field 'is_req_user'
+1713606971679	Encapsulate field 'isReply'
+1713606981293	Encapsulate field 'image'
+1713606988040	Encapsulate field 'video'
+1713606994711	Encapsulate field 'isTwit'
+1713607003115	Encapsulate field 'is_liked'
+1713607010344	Encapsulate field 'is_retwit'
+1713607126876	Encapsulate field 'status'
+1713607133984	Encapsulate field 'startedAt'
+1713607139568	Encapsulate field 'endsAt'
+1713607146072	Encapsulate field 'planType'
+1713607352291	Encapsulate field 'jwt'
+1713607575832	Encapsulate field 'GOOGLE_CLIENT_ID'
+1713620400422	Delete element
+1713636807481	Encapsulate field 'GOOGLE_CLIENT_ID'
+1713637118251	Delete element
+1713637939121	Encapsulate field 'GOOGLE_CLIENT_ID'
